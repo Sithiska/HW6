@@ -1,0 +1,15 @@
+D:\Git\HW6\43\bin\Debug\net7.0\43.exe
+D:\Git\HW6\43\bin\Debug\net7.0\43.deps.json
+D:\Git\HW6\43\bin\Debug\net7.0\43.runtimeconfig.json
+D:\Git\HW6\43\bin\Debug\net7.0\43.dll
+D:\Git\HW6\43\bin\Debug\net7.0\43.pdb
+D:\Git\HW6\43\obj\Debug\net7.0\43.csproj.AssemblyReference.cache
+D:\Git\HW6\43\obj\Debug\net7.0\43.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\HW6\43\obj\Debug\net7.0\43.AssemblyInfoInputs.cache
+D:\Git\HW6\43\obj\Debug\net7.0\43.AssemblyInfo.cs
+D:\Git\HW6\43\obj\Debug\net7.0\43.csproj.CoreCompileInputs.cache
+D:\Git\HW6\43\obj\Debug\net7.0\43.dll
+D:\Git\HW6\43\obj\Debug\net7.0\refint\43.dll
+D:\Git\HW6\43\obj\Debug\net7.0\43.pdb
+D:\Git\HW6\43\obj\Debug\net7.0\43.genruntimeconfig.cache
+D:\Git\HW6\43\obj\Debug\net7.0\ref\43.dll
